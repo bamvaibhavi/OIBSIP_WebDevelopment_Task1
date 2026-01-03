@@ -36,7 +36,9 @@ The final result is a responsive and interactive calculator application that wor
 ## 🔴 Live Demo
 **Check out the live project here:** 🔗 https://bamvaibhavi.github.io/OIBSIP_WebDevelopment_Task1/
 
+---
 
 ### 📬 Connect
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **GitHub:** [Your GitHub Profile Link]
+* **LinkedIn:** https://www.linkedin.com/in/vaibhavi-bam-458580345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* **GitHub:** https://github.com/bamvaibhavi
+
